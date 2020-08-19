@@ -1,6 +1,10 @@
-# Competitive Programming 🐱‍👤🐱‍💻
+# Competitive Programming 🐱‍👤
 
-## HackerRank Solutions 📄 + Certifications 🎓
+<a href="https://www.hackerrank.com/anishviewer"><img src="assets/hackerrank.png" width="40px"></a>
+[](https://www.hackerrank.com/anishviewer)
+[![]()](https://leetcode.com/anishlearnstocode/)
+
+## HackerRank 
 
 ### Domains
 - ☕ [Java](https://github.com/anishLearnsToCode/hackerrank-java) ![problems-solved-java](https://img.shields.io/badge/Solved-68/68-1abc9c.svg)
@@ -9,7 +13,7 @@
 - [Data Structures](https://github.com/anishLearnsToCode/hackerrank-data-structures)
 
 ### Tutorials
-- [Interview Preparation Kit](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit)
+- 🎓 [Interview Preparation Kit](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit)
 
 ### Certifications
 - ✔ [Java (Basic)](https://github.com/anishLearnsToCode/hackerrank-java-basic-skill-test) 
@@ -19,5 +23,6 @@
 - ✔ [Problem Solving (Intermediate)](https://github.com/anishLearnsToCode//hackerrank-problem-solving-intermediate-skill-test)
   
 ## Leetcode
+
 ### Domains
 - [Algorithms](https://github.com/anishLearnsToCode/leetcode-algorithms)
