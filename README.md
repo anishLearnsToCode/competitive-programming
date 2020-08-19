@@ -1,8 +1,7 @@
 # Competitive Programming 🐱‍👤
 
 <a href="https://www.hackerrank.com/anishviewer"><img src="assets/hackerrank.png" width="40px"></a>
-[](https://www.hackerrank.com/anishviewer)
-[![]()](https://leetcode.com/anishlearnstocode/)
+<a href="https://leetcode.com/anishlearnstocode/"><img src="assets/leetcode.png" width="40px"></a>
 
 ## HackerRank 
 
