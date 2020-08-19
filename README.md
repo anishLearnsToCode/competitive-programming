@@ -3,8 +3,8 @@
 ## HackerRank Solutions 📄 + Certifications 🎓
 
 ### Domains
-- ☕ [Java](https://github.com/anishLearnsToCode/hackerrank-java) ![problems-solved-java](https://img.shields.io/badge/Solutions%20(Java)-68/68-1abc9c.svg)
-- 🐍 [Python](https://github.com/anishLearnsToCode/hackerrank-python) ![problems-solved-python](https://img.shields.io/badge/Solutions%20(Python)-115/115-1abc9c.svg)
+- ☕ [Java](https://github.com/anishLearnsToCode/hackerrank-java) ![problems-solved-java](https://img.shields.io/badge/Solved-68/68-1abc9c.svg)
+- 🐍 [Python](https://github.com/anishLearnsToCode/hackerrank-python) ![problems-solved-python](https://img.shields.io/badge/Solved-115/115-1abc9c.svg)
 - [Algorithms](https://github.com/anishLearnsToCode/hackerrank-algorithms)
 - [Data Structures](https://github.com/anishLearnsToCode/hackerrank-data-structures)
 
