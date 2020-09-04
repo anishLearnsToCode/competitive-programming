@@ -6,11 +6,11 @@
 ## HackerRank 
 
 ### Domains
-- ☕ [Java](https://github.com/anishLearnsToCode/hackerrank-java) ![problems-solved-java](https://img.shields.io/badge/Solved-68/68-1abc9c.svg)
-- 🐍 [Python](https://github.com/anishLearnsToCode/hackerrank-python) ![problems-solved-python](https://img.shields.io/badge/Solved-115/115-1abc9c.svg)
+- ☕ [Java](https://github.com/anishLearnsToCode/hackerrank-java) ![problems-solved](https://img.shields.io/badge/Solved-68/68-1abc9c.svg)
+- 🐍 [Python](https://github.com/anishLearnsToCode/hackerrank-python) ![problems-solved](https://img.shields.io/badge/Solved-115/115-1abc9c.svg)
 - ⚡ [Algorithms](https://github.com/anishLearnsToCode/hackerrank-algorithms)
 - ⚡ [Data Structures](https://github.com/anishLearnsToCode/hackerrank-data-structures)
-- ⚙ [C++](https://github.com/anishLearnsToCode/hackerrank-cpp) ![problems-solved-java](https://img.shields.io/badge/Solved-44/44-1abc9c.svg)
+- ⚙ [C++](https://github.com/anishLearnsToCode/hackerrank-cpp) ![problems-solved](https://img.shields.io/badge/Solved-44/44-1abc9c.svg)
 
 ### Tutorials
 - 🎓 [Interview Preparation Kit](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit)
@@ -25,4 +25,4 @@
 ## Leetcode
 
 ### Domains
-- [Algorithms](https://github.com/anishLearnsToCode/leetcode-algorithms)
+- [Algorithms](https://github.com/anishLearnsToCode/leetcode-algorithms) ![problems-solved](https://img.shields.io/badge/Solved-94/1412-1abc9c.svg)
