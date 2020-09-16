@@ -21,6 +21,8 @@
 - ✔ [Python (Basic)](https://github.com/anishLearnsToCode/hackerrank-python-basic-skill-test)
 - ✔ [Problem Solving (Basic)](https://github.com/anishLearnsToCode//hackerrank-problem-solving-skill-test)
 - ✔ [Problem Solving (Intermediate)](https://github.com/anishLearnsToCode//hackerrank-problem-solving-intermediate-skill-test)
+- ✔ SQL (Basic) [🎓](https://www.hackerrank.com/certificates/1264fb52eba1)
+- ✔ SQL (Intermediate) [🎓](https://www.hackerrank.com/certificates/141435ba30fc)
   
 ## Leetcode
 
