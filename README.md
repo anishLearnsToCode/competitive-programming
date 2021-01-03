@@ -8,7 +8,7 @@
 ### Domains
 - ☕ [Java](https://github.com/anishLearnsToCode/hackerrank-java) ![problems-solved](https://img.shields.io/badge/Solved-68/68-1abc9c.svg)
 - 🐍 [Python](https://github.com/anishLearnsToCode/hackerrank-python) ![problems-solved](https://img.shields.io/badge/Solved-115/115-1abc9c.svg)
-- ⚡ [Algorithms](https://github.com/anishLearnsToCode/hackerrank-algorithms)
+- ⚡ [Algorithms](https://github.com/anishLearnsToCode/hackerrank-algorithms) ![problems-solved](https://img.shields.io/badge/Solved-102/426-1abc9c.svg)
 - ⚡ [Data Structures](https://github.com/anishLearnsToCode/hackerrank-data-structures)
 - ⚙ [C++](https://github.com/anishLearnsToCode/hackerrank-cpp) ![problems-solved](https://img.shields.io/badge/Solved-44/44-1abc9c.svg)
 
