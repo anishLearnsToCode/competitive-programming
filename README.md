@@ -6,14 +6,14 @@
 ## HackerRank 
 
 ### Domains
-- ☕ [Java](https://github.com/anishLearnsToCode/hackerrank-java) ![problems-solved](https://img.shields.io/badge/Solved-68/68-1abc9c.svg)
-- 🐍 [Python](https://github.com/anishLearnsToCode/hackerrank-python) ![problems-solved](https://img.shields.io/badge/Solved-115/115-1abc9c.svg)
-- ⚡ [Algorithms](https://github.com/anishLearnsToCode/hackerrank-algorithms) ![problems-solved](https://img.shields.io/badge/Solved-102/426-1abc9c.svg)
-- ⚡ [Data Structures](https://github.com/anishLearnsToCode/hackerrank-data-structures) ![problems-solved](https://img.shields.io/badge/Solved-57/121-1abc9c.svg)
-- ⚙ [C++](https://github.com/anishLearnsToCode/hackerrank-cpp) ![problems-solved](https://img.shields.io/badge/Solved-44/44-1abc9c.svg)
+- ☕ [Java](https://github.com/anishLearnsToCode/hackerrank-java) ![problems-solved](https://img.shields.io/badge/Solved-68/68-008000.svg)
+- 🐍 [Python](https://github.com/anishLearnsToCode/hackerrank-python) ![problems-solved](https://img.shields.io/badge/Solved-115/115-008000.svg)
+- ⚡ [Algorithms](https://github.com/anishLearnsToCode/hackerrank-algorithms) ![problems-solved](https://img.shields.io/badge/Solved-102/426-00ffff.svg)
+- ⚡ [Data Structures](https://github.com/anishLearnsToCode/hackerrank-data-structures) ![problems-solved](https://img.shields.io/badge/Solved-57/121-00ffff.svg)
+- ⚙ [C++](https://github.com/anishLearnsToCode/hackerrank-cpp) ![problems-solved](https://img.shields.io/badge/Solved-44/44-008000.svg)
 
 ### Tutorials
-- 🎓 [Interview Preparation Kit](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit)
+- 🎓 [Interview Preparation Kit](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit) ![problems-solved](https://img.shields.io/badge/Solved-28/69-00ffff.svg)
 
 ### Certifications
 - ✔ [Java (Basic)](https://github.com/anishLearnsToCode/hackerrank-java-basic-skill-test) 
