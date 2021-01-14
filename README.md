@@ -11,7 +11,7 @@
 - ⚡ [Algorithms](https://github.com/anishLearnsToCode/hackerrank-algorithms) ![problems-solved](https://img.shields.io/badge/Solved-102/426-00ffff.svg)
 - ⚡ [Data Structures](https://github.com/anishLearnsToCode/hackerrank-data-structures) ![problems-solved](https://img.shields.io/badge/Solved-57/121-00ffff.svg)
 - ⚙ [C++](https://github.com/anishLearnsToCode/hackerrank-cpp) ![problems-solved](https://img.shields.io/badge/Solved-44/44-008000.svg)
-- 🧮 [Mathematics](https://github.com/anishLearnsToCode/hackerrank-mathematics) ![problems-solved](https://img.shields.io/badge/Solved-0/284-00ffff.svg)
+- 🧮 [Mathematics](https://github.com/anishLearnsToCode/hackerrank-math) ![problems-solved](https://img.shields.io/badge/Solved-0/284-00ffff.svg)
 
 ### Tutorials
 - 🎓 [Interview Preparation Kit](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit) ![problems-solved](https://img.shields.io/badge/Solved-28/69-00ffff.svg)
