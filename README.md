@@ -15,6 +15,7 @@
 
 ### Tutorials
 - 🎓 [Interview Preparation Kit](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit) ![problems-solved](https://img.shields.io/badge/Solved-28/69-00ffff.svg)
+- 👨‍💻 [30 Days of Code](https://github.com/anishLearnsToCode/hackerrank-30-days-of-code) ![problems-solved](https://img.shields.io/badge/Solved-30/30-008000.svg)
 
 ### Certifications
 - ✔ [Java (Basic)](https://github.com/anishLearnsToCode/hackerrank-java-basic-skill-test) 
