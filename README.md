@@ -31,4 +31,4 @@
 ## Leetcode
 
 ### Domains
-- [Algorithms](https://github.com/anishLearnsToCode/leetcode-algorithms) ![problems-solved](https://img.shields.io/badge/Solved-120/1412-00ffff.svg)
+- [Algorithms](https://github.com/anishLearnsToCode/leetcode-algorithms) ![problems-solved](https://img.shields.io/badge/Solved-120/1571-00ffff.svg)
