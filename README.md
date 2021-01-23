@@ -16,7 +16,7 @@
 ### Tutorials
 - 🎓 [Interview Preparation Kit](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit) ![problems-solved](https://img.shields.io/badge/Solved-28/69-00ffff.svg)
 - 👨‍💻 [30 Days of Code](https://github.com/anishLearnsToCode/hackerrank-30-days-of-code) ![problems-solved](https://img.shields.io/badge/Solved-30/30-008000.svg)
-- 📊 [10 Days of Statistics](https://github.com/anishLearnsToCode/hackerrank-10-days-of-statistics) ![problems-solved](https://img.shields.io/badge/Solved-11/26-00ffff.svg)
+- 📊 [10 Days of Statistics](https://github.com/anishLearnsToCode/hackerrank-10-days-of-statistics) ![problems-solved](https://img.shields.io/badge/Solved-27/27-008000.svg)
 - 🌐 [10 Days of JavaScript](https://github.com/anishLearnsToCode/hackerrank-10-days-of-statistics) ![problems-solved](https://img.shields.io/badge/Solved-25/25-008000.svg)
 
 ### Certifications
