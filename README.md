@@ -35,4 +35,4 @@
 - ⚡ [Algorithms](https://github.com/anishLearnsToCode/leetcode-algorithms) ![problems-solved](https://img.shields.io/badge/Solved-143/1571-00ffff.svg)
 
 ### Learn
-- 🗃 [Arrays 101](https://github.com/anishLearnsToCode/leetcode-arrays-101) ![problems-solved](https://img.shields.io/badge/Solved-0/18-00ffff.svg)
+- 🗃 [Arrays 101](https://github.com/anishLearnsToCode/leetcode-arrays-101) ![problems-solved](https://img.shields.io/badge/Solved-18/18-008000.svg)
