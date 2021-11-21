@@ -36,3 +36,4 @@
 
 ### Learn
 - 🗃 [Arrays 101](https://github.com/anishLearnsToCode/leetcode-arrays-101) ![problems-solved](https://img.shields.io/badge/Solved-18/18-008000.svg)
+- 🖇 [Linked List](https://github.com/anishLearnsToCode/leetcode-linked-list) ![problems-solved](https://img.shields.io/badge/Solved-0/0-00ffff.svg)
