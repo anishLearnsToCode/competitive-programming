@@ -32,7 +32,7 @@
 ## Leetcode
 
 ### Domains
-- ⚡ [Algorithms](https://github.com/anishLearnsToCode/leetcode-algorithms) ![problems-solved](https://img.shields.io/badge/Solved-352/1571-00ffff.svg)
+- ⚡ [Algorithms](https://github.com/anishLearnsToCode/leetcode-algorithms) ![problems-solved](https://img.shields.io/badge/Solved-400/1571-00ffff.svg)
 
 ### Learn
 - 🗃 [Arrays 101](https://github.com/anishLearnsToCode/leetcode-arrays-101) ![problems-solved](https://img.shields.io/badge/Solved-18/18-008000.svg)
