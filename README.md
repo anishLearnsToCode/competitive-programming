@@ -32,8 +32,12 @@
 ## Leetcode
 
 ### Domains
-- ⚡ [Algorithms](https://github.com/anishLearnsToCode/leetcode-algorithms) ![problems-solved](https://img.shields.io/badge/Solved-460/1571-00ffff.svg)
+- ⚡ [Algorithms](https://github.com/anishLearnsToCode/leetcode-algorithms) ![problems-solved](https://img.shields.io/badge/Solved-470/1571-00ffff.svg)
 
 ### Learn
 - 🗃 [Arrays 101](https://github.com/anishLearnsToCode/leetcode-arrays-101) ![problems-solved](https://img.shields.io/badge/Solved-18/18-008000.svg)
 - 🖇 [Linked List](https://github.com/anishLearnsToCode/leetcode-linked-list) ![problems-solved](https://img.shields.io/badge/Solved-0/0-00ffff.svg)
+
+
+## InterviewBit
+- 🧩 [Puzzles](https://github.com/anishLearnsToCode/interviewbit-puzzles) ![problems-solved](https://img.shields.io/badge/Solved-0/200-00ffff.svg)
