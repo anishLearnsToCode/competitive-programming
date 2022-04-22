@@ -3,6 +3,7 @@
 <a href="https://www.youtube.com/channel/UC6zEtIjpypm8gADSdHMP5vg/featured"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="42px"></a>
 <a href="https://www.hackerrank.com/anishviewer"><img src="assets/hackerrank.png" width="40px"></a>
 <a href="https://leetcode.com/anishlearnstocode"><img src="assets/leetcode.png" width="40px"></a>
+<a href="https://www.interviewbit.com/profile/anish-sachdeva"><img src="assets/interviewbit.png" width="40px"></a>
 
 ## HackerRank 
 
